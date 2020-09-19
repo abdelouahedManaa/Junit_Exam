@@ -27,7 +27,7 @@ public class JunitExam extends BaseClassJunit {
 			Thread.sleep(2000);
 			addNItems(4);
 		} else {
-			// Adding five Items
+			// --Adding five Items
 			addNItems(5);
 		}
 		// getting the size of the list of items
